@@ -11,7 +11,7 @@ Vì có thể có nhiều dãy con thỏa mãn yêu cầu đề bài, bạn ch�
 ## Định dạng Input
 
   * Dòng đầu tiên chứa số nguyên $N$.
-  * Dòng tiếp theo chứa $N$ số nguyên không âm $A[1], A[2], \\ldots, A[N]$.
+  * Dòng tiếp theo chứa $N$ số nguyên không âm $A[1], A[2], ..., A[N]$.
 
 -----
 
